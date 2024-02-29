@@ -5,6 +5,7 @@ from astropy.time import Time
 import astropy.units as u
 
 #Summary of code:
+#Written by Dr. Trystyn Berg for GHOST commissioning. Contact: trystynberg@gmail.com
 #This code finds pairs of stars that fall into given airmass/separation bins for testing dual acquistion, etc
 #################
 
