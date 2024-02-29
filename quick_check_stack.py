@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import argparse
 
+
+#Written by Dr. Trystyn Berg for GHOST commissioning. Contact: trystynberg@gmail.com
+#This is a quick-look tool for GHOST data, written before any quick-look tools were available for Gemini observers.
+
 #Create Argparse instance
 parser = argparse.ArgumentParser()
 #Require a filename
